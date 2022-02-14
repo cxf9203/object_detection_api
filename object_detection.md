@@ -1,27 +1,7 @@
 # 介绍
 
-welcome to learning coding
-
-i am very excited as i have started to learn code
-
-i was tying Tims all about it and he asked what is coding?
-
-this is very good question and the very same thing that i had asked mum yeasterday
-
-before we started/
-
-my mum told me coding is a term for computer programming, it is how you give a computer
-
-an instruction 
-
-i have also discoverd that there are different coding language.
-
-programmer use one or more  computer coding languages to get these instructions to computers
-
-give example, programmers working at google might use C++ java c# javesvript or python
-
-欢迎来到酷德青少年编程。我们不仅仅教你编程，更想要你像程序员一样，充满逻辑的思考一切问题！将想法有逻辑性的表达出来！
-
+#welcome to learning coding，
+#More coding lessons please contact cxf9203@126.com
 # 1. image labeling
 
 注意：
